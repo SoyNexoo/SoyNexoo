@@ -1,3 +1,5 @@
+https://media.licdn.com/dms/image/D4D16AQHzQ6fjwm5o-Q/profile-displaybackgroundimage-shrink_350_1400/0/1692504515909?e=1698278400&v=beta&t=9Wvu8QRVXiZLaIo1-se54hYtAhMksHVM1krQgceJoJc
+
 # ¡Hola, soy Julian Luque! 👋
 
 ## Desarrollador Web Fullstack JR 🌐 | React | Redux | Express | SQL | HTML | CSS | JavaScript | NodeJS
