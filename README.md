@@ -21,7 +21,8 @@ Creo en el poder de la comunicación efectiva y el trabajo en equipo. Mi experie
 ¡Siempre estoy emocionado por conectar con otros desarrolladores, compartir ideas y aprender juntos! No dudes en contactarme. 📫
 
 Mis contacto: 
--📞 **Numero de telefono**
+
+📞 **Numero de telefono**
 +54 9 2954 526464
 
 🔵 **Linkedin**
