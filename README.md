@@ -29,7 +29,7 @@ Mis contacto:
 https://www.linkedin.com/in/julian-luque-2ba0281a6/
 
 📧 **Email**
-Soynexoo@gmail.com 
+Julianlu29.03@gmail.com
 
 
 
