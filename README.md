@@ -23,7 +23,7 @@ Creo en el poder de la comunicación efectiva y el trabajo en equipo. Mi experie
 Mis contacto: 
 
 📞 **Numero de telefono**
-+54 9 2954 526464
++54 9 2954 600362
 
 🔵 **Linkedin**
 https://www.linkedin.com/in/julian-luque-2ba0281a6/
